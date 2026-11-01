@@ -4,4 +4,6 @@ What I learned today:
 - Git init
 - Git add
 - Git commit
-- Git push- im not sure about that
+- Git push 
+
+Git helps me track changes in my projects.
