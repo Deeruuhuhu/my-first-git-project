@@ -1,2 +1,7 @@
 machine learning journey ay 1
 i started learning git and github
+What I learned today:
+- Git init
+- Git add
+- Git commit
+- Git push- im not sure about that
