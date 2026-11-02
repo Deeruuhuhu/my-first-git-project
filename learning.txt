@@ -9,3 +9,5 @@ What I learned today:
 Git helps me track changes in my projects.
 
 hello, this is day two of my github journey
+
+hello, why is the diff command not working, bruh
