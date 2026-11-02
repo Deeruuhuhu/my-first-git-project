@@ -7,3 +7,5 @@ What I learned today:
 - Git push 
 
 Git helps me track changes in my projects.
+
+hello, this is day two of my github journey
